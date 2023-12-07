@@ -22,3 +22,6 @@
 --(
 --	transaction_id INT, visit_id INT, amount INT
 --)
+
+--CREATE TABLE Weather
+--(id INT, recordDate DATE, temperature INT)
